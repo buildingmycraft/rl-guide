@@ -1,1 +1,3 @@
-# rl-guide
+# RL Guide
+
+Notes on reinforcement learning...
